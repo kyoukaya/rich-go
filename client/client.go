@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/ananagame/rich-go/ipc"
+	"github.com/kyoukaya/rich-go/ipc"
 )
 
 var logged bool

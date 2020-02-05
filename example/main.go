@@ -2,8 +2,9 @@ package main
 
 import (
 	"fmt"
-	"github.com/ananagame/rich-go/client"
 	"time"
+
+	"github.com/kyoukaya/rich-go/client"
 )
 
 func main() {
