@@ -12,7 +12,7 @@ func main() {
 	if err != nil {
 		panic(err)
 	}
-
+	now := time.Now()
 	err = client.SetActivity(client.Activity{
 		State:      "Heyy!!!",
 		Details:    "I'm running on rich-go :)",
@@ -26,7 +26,7 @@ func main() {
 			MaxPlayers: 24,
 		},
 		Timestamps: &client.Timestamps{
-			Start: time.Now(),
+			Start: &now,
 		},
 	})
 
