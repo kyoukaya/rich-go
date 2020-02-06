@@ -1,4 +1,2 @@
-github.com/ananagame/rich-go v0.0.0-20190620140604-a6bec8def983 h1:vTCNmz7EZO3hy1uxSBdKd8e/Jm/CNiCgwaTTwPIgHec=
-github.com/ananagame/rich-go v0.0.0-20190620140604-a6bec8def983/go.mod h1:U9YxCfeNzWcDUs4O8lQfUyz9txKHTojVykpQicaZhyU=
 gopkg.in/natefinch/npipe.v2 v2.0.0-20160621034901-c1b8fa8bdcce h1:+JknDZhAj8YMt7GC73Ei8pv4MzjDUNPHgQWJdtMAaDU=
 gopkg.in/natefinch/npipe.v2 v2.0.0-20160621034901-c1b8fa8bdcce/go.mod h1:5AcXVHNjg+BDxry382+8OKon8SEWiKktQR07RKPsv1c=
